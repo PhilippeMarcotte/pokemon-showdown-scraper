@@ -1,0 +1,7 @@
+data/pokemons.json filter=lfs diff=lfs merge=lfs -text
+data/pokemons.pickle filter=lfs diff=lfs merge=lfs -text
+data/replay_ids.pickle filter=lfs diff=lfs merge=lfs -text
+data/replays.pickle filter=lfs diff=lfs merge=lfs -text
+data/user_replays.pickle filter=lfs diff=lfs merge=lfs -text
+data/moves.json filter=lfs diff=lfs merge=lfs -text
+data/moves.pickle filter=lfs diff=lfs merge=lfs -text
